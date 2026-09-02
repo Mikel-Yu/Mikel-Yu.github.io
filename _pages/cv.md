@@ -3,12 +3,10 @@ layout: archive
 title: "CV"
 permalink: /cv/
 author_profile: true
-redirect_from:
-  - /resume
 ---
 
 {% include base_path %}
 
-<a href="/files/cv.pdf" target="_blank">Download CV (PDF)</a>
+<script>window.open('/files/cv.pdf', '_blank');</script>
 
-<embed src="/files/cv.pdf" type="application/pdf" width="100%" height="900px" />
+<p><a href="/files/cv.pdf" target="_blank">Click here to open CV</a> if it didn't open automatically.</p>
