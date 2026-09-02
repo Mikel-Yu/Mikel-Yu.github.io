@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: https://doi.org/10.31223/X50J66
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2026
+date: 2026-01-01
 venue: 'Acta Astronautica (In Review)'
 #slidesurl: 'https://doi.org/10.31223/X50J66'
 #paperurl: 'https://academicpages.github.io/files/paper1.pdf'
